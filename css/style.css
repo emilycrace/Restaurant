@@ -1,0 +1,26 @@
+.jumbotron{
+  background-color: olivedrab;
+  color: white;
+  font-family: sans-serif;
+}
+.column1{
+  background-color: crimson;
+  color: pink;
+}
+.column2{
+  background-color: grey;
+  color: white;
+}
+.column3{
+  background-color: crimson;
+  color: pink;
+}
+
+
+
+h1{
+  color: darkorange;
+  font-size: 55px;
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+}
